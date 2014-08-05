@@ -4,14 +4,14 @@ title: Test Timer
 permalink: testtimer.html
 ---
 
-* ## Intro
+*   ## Intro
 
-  ### 3.00
+    ### 3.00
 
-  Started by Mark
+    Started by Mark
 
-* ## Outro
+*   ## Outro
 
-  ### 2.00
+    ### 2.00
 
-  Started by Tony 
+    Started by Tony 
