@@ -1,9 +1,3 @@
----
-layout: timer
-title: Test Timer
-permalink: testtimer.html
----
-
 *   ## Intro
 
     ### 3.00
