@@ -4,17 +4,14 @@ title: Test Timer
 permalink: testtimer.html
 ---
 
-<div markdown="1">
-## Intro
+* ## Intro
 
-### 3.00
+  ### 3.00
 
-Started by Mark
-</div>
-<div markdown="1">
-## Outro
+  Started by Mark
 
-### 2.00
+* ## Outro
 
-Started by Tony 
-</div>
+  ### 2.00
+
+  Started by Tony 
