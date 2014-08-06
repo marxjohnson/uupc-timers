@@ -1,0 +1,10 @@
+<html>
+<head><title>Index</title></head>
+<body>
+<ul>
+{% for page in site.pages %}
+<li><a href="{{ page.title }}.html">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
+</body>
+</html>
