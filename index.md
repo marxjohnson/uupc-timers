@@ -12,13 +12,13 @@ title: uupc_s07e1923
 
     ### 3.00
     
-    Started by Alan
+    Started by Laura
     
 *   ## News Discussion
 
     ### 15.00
     
-    Started by Laura
+    Started by Tony
     
     
 *   ## Community News
@@ -31,7 +31,7 @@ title: uupc_s07e1923
 
     ### 1.00
     
-    Started by Alan
+    Started by Laura
     
 *   ## Break
 
@@ -43,7 +43,7 @@ title: uupc_s07e1923
 
     ### 4.00
     
-    Started by Marx
+    Started by Tony
     
 *   ## Segment
 
@@ -55,7 +55,7 @@ title: uupc_s07e1923
 
     ### 3.00
     
-    Started By Mark
+    Started By Tony
     
 *   ## Feedback
 
