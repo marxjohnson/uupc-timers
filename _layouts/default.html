@@ -13,7 +13,7 @@
     -->
 </div>
 <div pub-key="pub-f3605994-025e-4c39-b029-0017292eeed7" sub-key="sub-1d8a1523-b090-11e1-978f-13cc0a021dcf" ssl="off" origin="pubsub.pubnub.com" id="pubnub"></div>
-<script src="http://cdn.pubnub.com/pubnub-3.3.min.js"></script>
+<script src="//cdn.pubnub.com/pubnub-3.3.min.js"></script>
 <script type="text/javascript">var CUR=8;var TIMER=0;setInterval(function(){TIMER=TIMER+1;mins=parseInt(TIMER/60);secs=TIMER%60;if(secs<10)secs="0"+secs;document.getElementsByTagName('h1')[0].innerHTML=mins+"."+secs;},1000);function gotonewslide(){CUR+=1;divs=document.getElementById("content").getElementsByTagName('li');if(CUR>divs.length)CUR=1;for(var i=0;i<divs.length;i++){divs[i].style.display="none";}
 divs[CUR-1].style.display="block";TIMER=0;}
 function doit(){gotonewslide();sendMessageToOthers({slide:CUR});};window.onload=function(){document.onkeypress=doit;document.onclick=doit;CUR=0;doit();PUBNUB.subscribe({channel:location.href,callback:function(message){try{var msg=JSON.parse(message);if("slide"in msg){CUR=msg.slide-1;gotonewslide();}}catch(e){console.log("couldn't parse",message)}},error:function(e){console.log("error",e);}});}
