@@ -1,5 +1,5 @@
 ---
-title: uupc_s07e1923
+title: uupc_s08e0102
 ---
 
 *   ## Cup of tea
@@ -10,28 +10,27 @@ title: uupc_s07e1923
 
 *   ## Ep A Intro
 
-    ### 3.00
+    ### 2.00
     
-    Started by Laura
+    Started by Mark
     
 *   ## News Discussion
 
     ### 15.00
     
-    Started by Tony
-    
+    Started by Laura
     
 *   ## Community News
 
-    ### 7.00
+    ### 12.00
     
-    Started by Mark
+    Started by Alan
     
 *   ## Ep A Outro
 
     ### 1.00
     
-    Started by Laura
+    Started by Mark
     
 *   ## Break
 
@@ -43,28 +42,28 @@ title: uupc_s07e1923
 
     ### 4.00
     
-    Started by Tony
+    Started by Alan
     
 *   ## Segment
 
     ### 15.00 
     
-    Started by Laura
+    Started by Mark
     
 *   ## Command Line Luuurve
 
     ### 3.00
     
-    Started By Tony
+    Started By Laura
     
 *   ## Feedback
 
     ### 5.00
     
-    Started By Laura
+    Started By Mark
     
 *   ## Ep B Outro
 
     ### 2.00
     
-    Started By Marx
+    Started By Alan
