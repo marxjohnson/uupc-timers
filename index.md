@@ -12,15 +12,15 @@ title: uupc_s08e0102
 
     ### 2.00
     
-    Started by Laura
+    Started by Martin
     
 *   ## News Discussion
 
     ### 15.00
     
-    Started by Mark
+    Started by Laura
     
-*   ## Gadget News
+*   ## Community News
 
     ### 12.00
     
@@ -30,7 +30,7 @@ title: uupc_s08e0102
 
     ### 1.00
     
-    Started by Laura
+    Started by Martin
     
 *   ## Break
 
@@ -42,19 +42,19 @@ title: uupc_s08e0102
 
     ### 4.00
     
-    Started by Mark
+    Started by Martin
     
 *   ## Segment
 
     ### 15.00 
 
-    Started by Alan
+    Started by Mark
     
 *   ## Command Line Luuurve
 
     ### 3.00
     
-    Started By Mark
+    Started By Joe
     
 *   ## Feedback
 
@@ -66,4 +66,4 @@ title: uupc_s08e0102
 
     ### 2.00
     
-    Started By Mark
+    Started By Martin
